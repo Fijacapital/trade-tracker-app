@@ -1,0 +1,25 @@
+{
+  "name": "trade-tracker-app",
+  "version": "1.0.0",
+  "description": "This app tracks your trades from Google Sheets using FastAPI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fijacapital/trade-tracker-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fijacapital/trade-tracker-app/issues"
+  },
+  "homepage": "https://github.com/Fijacapital/trade-tracker-app#readme",
+  "dependencies": {
+    "next": "^15.4.6",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
